@@ -15,7 +15,6 @@ Topics include:
 - Git repository management
 - Root cause analysis and preventive measures
 
-Technical Documentation
-- Root Cause Analysis - GitHub Version
-- Root Cause Analysis - Word Document
-  </CodeBlock>
+## Technical Documentation
+- [Root Cause Analysis - GitHub Version](https://github.com/dajat/30DaysToAutomation/blob/main/docs/troubleshooting-and-rca.md)
+- [Root Cause Analysis - Word Document](https://github.com/dajat/30DaysToAutomation/blob/main/docs/technical-troubleshooting-rca.docx?raw=true)
